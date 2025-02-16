@@ -12,14 +12,20 @@
     "react-scripts": "5.0.1",
     "react-toastify": "^9.1.3",
     "web-vitals": "^2.1.4"
+  "homepage" : "https:/Usersiva.github.io/Bookmyshow_Project"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
+<<<<<<< HEAD
     "predeploy": "npm run build",
     "deploy":"gh-pages -d build" 
+=======
+    "predeploy" : "npm run build",
+    "deploy": "gh-pages -d build"
+>>>>>>> e1a3b8c7a0b58abec694aa2e180ddbc0b3b8de2c
   },
   "eslintConfig": {
     "extends": [
